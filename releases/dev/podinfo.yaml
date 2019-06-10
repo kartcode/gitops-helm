@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: karthikanandkumar/podinfo:dev-hdtwcel9
+    image: karthikanandkumar/podinfo:dev-lgaxmffz
     replicaCount: 1
     hpa:
       enabled: false
